@@ -1,0 +1,15 @@
+.nav-link{
+	margin-right: 20px;
+	color:#5980b4;
+	letter-spacing: 1px;
+	transition: 0.3s;
+}
+.navbar-brand{
+	color: #bd4141;
+	letter-spacing: 1px;
+}
+h2{
+	color: #27e6ff;
+	letter-spacing: 1px;
+	font-family: 'Times New Roman', Times, serif;
+}
